@@ -1,4 +1,4 @@
-option = (input ("Ingrese su nombre: "))
+option = (input ("Ingrese su nombre, esto se va a descontrolar: "))
 
 if option == "Miguel Jimenez":
     #Insert code here
