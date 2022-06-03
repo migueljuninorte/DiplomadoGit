@@ -19,3 +19,7 @@ if option == "Jesus Gonzalez":
     name = option.split()
     print(name)
     print("El cambio en primera")
+
+if option == "Carlos Navarrete":
+    #Insert code here
+    print("Carlos Andrés Navarrete Morales")
