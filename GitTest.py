@@ -1,12 +1,5 @@
 option = input ("Ingrese su nombre:")
 
-if option == "Aimer R.":
-    #Insert code here
-<<<<<<< HEAD
-    print("Hola : "+option)
-=======
-    print("Opción 1")
-
 if option == "":
     #Insert code here
     print("")
@@ -36,4 +29,7 @@ if option == "cheider":
     name = option.split()
     print(name)
     print("Bienvenido cheider")
->>>>>>> e8c3f47c99443377ddc60ca66820a827aa960232
+
+if option == "Aimer R.":
+    #Insert code here
+    print("Hola : "+option)
