@@ -2,6 +2,7 @@ option =input ("Ingrese su nombre: ")
 
 if option == "Miguel Jimenez":
 	print("option")
+#prueba
 
 
 
