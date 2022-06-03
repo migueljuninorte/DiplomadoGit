@@ -20,5 +20,10 @@ if option == "Jesus Gonzalez":
     print(name)
     print("El cambio en primera")
 
+if option == "cheider":
+    name = option.split()
+    print(name)
+    print("Bienvenido cheider")
+
 if option == "Yisel Saez":
     print("Hola!!")
