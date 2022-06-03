@@ -1,4 +1,3 @@
-
 option = (input ("Ingrese su nombre: "))
 
 if option == "Miguel Jimenez":
@@ -28,3 +27,5 @@ if option == "cheider":
 
 if option == "Yisel Saez":
     print("Hola!!")
+if option == "Nicolas Lanete":
+    print("Hola2.0")
