@@ -1,5 +1,10 @@
-option = int(input ("Insert a number between 1 and 40: "))
+option =input ("Ingrese su nombre: ")
 
-if option == 1:
-    #Insert code here
-    print("option")
+if option == "Miguel Jimenez":
+	print("option")
+
+if option == "Nicolas Lanete":
+	print("Nicolas Lanete")
+
+
+
