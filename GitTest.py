@@ -5,7 +5,7 @@ if option == "Miguel Jimenez":
     #Insert code here
     print("Opción 1")
 
-if option == "":
+if option == "Angel Barros":
     #Insert code here
     print("")
 
