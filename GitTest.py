@@ -36,3 +36,6 @@ if option == "Nicolas Lanete":
 if option == "Daniel Rodriguez":
     print("Hola")
 
+if option == "Alejandro Cardenas":
+    print("!Hola!")
+
