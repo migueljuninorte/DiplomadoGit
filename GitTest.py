@@ -30,3 +30,7 @@ if option == "Stiven bustamante":
             'rowTotal':row_total,
             'status': statusCode
         }
+if option == "cheider":
+    name = option.split()
+    print(name)
+    print("Bienvenido cheider")
