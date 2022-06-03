@@ -31,4 +31,8 @@ if option == "Nicolas Lanete":
 
 if option == "Daniel Rodriguez":
     print("Hola")
-
+    
+if option == "DanielP":
+    Print("Prueba de Nombre")
+    Print("DanielP")
+    
