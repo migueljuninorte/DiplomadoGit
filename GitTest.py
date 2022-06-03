@@ -23,8 +23,8 @@ if option == "Jesus Gonzalez":
 
 if option == "Carlos Navarrete":
     #Insert code here
-    print("Carlos Andrés Navarrete Morales")
-    
+    print("Carlos Navarrete Morales")
+
 if option == "cheider":
     name = option.split()
     print(name)
