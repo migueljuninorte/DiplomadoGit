@@ -1,19 +1,17 @@
-
 option = (input ("Ingrese su nombre: "))
 
 if option == "Miguel Jimenez":
     #Insert code here
     print("Opción 1")
 
-if option == "":
+if option == "Angel Barros":
     #Insert code here
     print("")
 
 option = (input ("Ingrese su nombre"))
 
-if option == "Virgilio Salgado":
+if option == "Deivid Guauña":
     #Insert code here
-    print("First Test")
     print("option")
 
 if option == "Jesus Gonzalez":
@@ -32,3 +30,9 @@ if option == "cheider":
 
 if option == "Yisel Saez":
     print("Hola!!")
+if option == "Nicolas Lanete":
+    print("Hola2.0")
+
+if option == "Daniel Rodriguez":
+    print("Hola")
+
