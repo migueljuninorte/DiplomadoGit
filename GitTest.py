@@ -19,3 +19,14 @@ if option == "Jesus Gonzalez":
     name = option.split()
     print(name)
     print("El cambio en primera")
+
+if option == "Stiven bustamante":
+    def responseSuccess(results, message, row_total, title=None, statusCode=200):
+        return {
+            'success':True,
+            'title': title,
+            'message':message,
+            'results':results,
+            'rowTotal':row_total,
+            'status': statusCode
+        }
