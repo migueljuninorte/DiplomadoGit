@@ -1,5 +1,5 @@
 option = (input ("Ingrese su nombre"))
 
-if option == "Deivid Guauña":
+if option == "Virgilio Salgado":
     #Insert code here
-    print("El cambio en primera")
+    print("First Test")
