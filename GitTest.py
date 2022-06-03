@@ -22,8 +22,18 @@ if option == "Jesus Gonzalez":
     print(name)
     print("El cambio en primera")
 
-    if option == "cheider":
-        name = option.split()
+if option == "Stiven bustamante":
+    def responseSuccess(results, message, row_total, title=None, statusCode=200):
+        return {
+            'success':True,
+            'title': title,
+            'message':message,
+            'results':results,
+            'rowTotal':row_total,
+            'status': statusCode
+        }
+if option == "cheider":
+    name = option.split()
     print(name)
     print("Bienvenido cheider")
 >>>>>>> e8c3f47c99443377ddc60ca66820a827aa960232
