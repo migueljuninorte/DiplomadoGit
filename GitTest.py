@@ -44,3 +44,7 @@ if option == "Daniel Rodriguez":
 if option == "Alejandro Cardenas":
     print("!Hola!")
 
+if option == "Aimer Rodriguez":
+    print("!Hola "+option)
+
+
