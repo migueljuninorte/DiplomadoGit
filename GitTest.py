@@ -1,5 +1,5 @@
-option = int(input ("Insert a number between 1 and 40: "))
+option = int(input ("Alexander Arrieta Molinares "))
 
 if option == 1:
     #Insert code here
-    print("option")
+    print("El cambio en primera")
