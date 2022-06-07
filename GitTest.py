@@ -1,4 +1,4 @@
-option =  ("Alexander Arrieta Molinares ")
+option =  input("Alexander Arrieta Molinares ")
 
 if option == "Miguel Jimenez":
     #Insert code here
